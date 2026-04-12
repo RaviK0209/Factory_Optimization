@@ -1,5 +1,9 @@
 # 🍭 Factory Reallocation & Shipping Optimization System
 
+## 🌐 Live Demo
+
+👉 [Click Here to View Dashboard](https://factoryoptimization-xuk5yd4ndtvxhpdcfo7n4u.streamlit.app/)
+
 ## 📌 Overview
 
 This project presents an intelligent decision-support system for optimizing factory-product allocation for Nassau Candy Distributor. It replaces static assignment logic with a data-driven approach using predictive analytics and scenario simulation.
@@ -98,9 +102,6 @@ The goal is to:
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click Here to View Dashboard](https://factoryoptimization-xuk5yd4ndtvxhpdcfo7n4u.streamlit.app/)
 
 ---
 
